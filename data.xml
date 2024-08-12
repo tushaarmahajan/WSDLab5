@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Travel Package A</name>
+        <description>A 7-day tour to the mountains.</description>
+        <price>1500</price>
+        <availability>In Stock</availability>
+    </product>
+    <product>
+        <name>Travel Package B</name>
+        <description>A 5-day beach holiday.</description>
+        <price>1200</price>
+        <availability>Out of Stock</availability>
+    </product>
+</products>
